@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on: mobile developement
 - 📫 How to reach me: Telegram Account — @jenyasubbotina
 
-![Jenya's github stats](https://github-readme-stats.vercel.app/api?username=jenyasubbotina&line_height=40)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenyasubbotina&langs_count=6)
+<a href="https://github.com/jenyasubbotina/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jenyasubbotina&show_icons=true&include_all_commits=true&theme=radical&line_height=20" alt="Jenya's github stats" />
+</a>
+<a href="https://github.com/jenyasubbotina/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenyasubbotina&layout=compact&theme=radical" />
+</a>
