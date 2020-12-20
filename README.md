@@ -1,4 +1,4 @@
-### Hi bitches
+### Hi
 
 - 🔭 I’m currently working on: mobile developement
 - 📫 How to reach me: Telegram Account — @jenyasubbotina
