@@ -6,6 +6,7 @@
 <a href="https://github.com/jenyasubbotina">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jenyasubbotina&show_icons=true&include_all_commits=true&line_height=25" alt="Jenya's github stats" />
 </a>
+
 <a href="https://github.com/jenyasubbotina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenyasubbotina&layout=compact" />
 </a>
