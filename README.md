@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: mobile developement
 - 📫 How to reach me: Telegram Account — @jenyasubbotina
 
-<h1 align="center"> Talk is cheap. Show me the code. </h1>
+<h1 align="center"> "Talk is cheap. Show me the code." © </h1>
 
 <div align="center">
   <img src="https://github.com/jenyasubbotina/jenyasubbotina/blob/main/source.gif" width="300" height="300">
