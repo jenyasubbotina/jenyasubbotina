@@ -10,7 +10,7 @@
 </div>
 
 <a href="https://github.com/jenyasubbotina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jenyasubbotina" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jenyasubbotina&layout=compact" />
 </a>
 
 <a href="https://github.com/jenyasubbotina">
