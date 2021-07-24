@@ -1,6 +1,6 @@
 ### Hi
 
-- 🔭 I’m currently working on: mobile development
+- 🔭 I’m currently working on: Android development
 - 📫 How to reach me: Telegram Account — @jenyasubbotina
 
 <h1 align="center"> "Talk is cheap. Show me the code." © </h1>
